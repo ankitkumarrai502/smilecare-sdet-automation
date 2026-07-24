@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+playwright-report/
+test-results/
+allure-results/
+allure-report/
+*.log
+.vscode/
+node_modules/
+.DS_Store
