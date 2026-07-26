@@ -71,4 +71,4 @@ From then on, after each lesson: `git add . && git commit -m "week1 day2: ..." &
 
 ## Safety note
 
-This targets a **live production site**. Never automate real checkout/payment submission, account deletion, or product create/update/delete against production — see `SmileCare Medicines API/README.md` and the SDET guide docx for which endpoints are safe (VERIFIED LIVE, read-only) vs. ones that need a dedicated test account first (INFERRED, write endpoints).
+This targets a **live production site**. Never automate real checkout/payment submission, account deletion, or product create/update/delete against production — see `SmileCare Medicines API/README.md` and the SDET guide docx for which endpoints are safe (VERIFIED LIVE, read-only) vs. ones that needs a dedicated test account first (INFERRED, write endpoints).
