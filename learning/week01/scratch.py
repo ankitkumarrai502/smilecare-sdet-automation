@@ -21,5 +21,3 @@
 # print(subtotal > 100)
 # print(round(subtotal, 1))
 
-
-category = input("Enter a category product: ")
